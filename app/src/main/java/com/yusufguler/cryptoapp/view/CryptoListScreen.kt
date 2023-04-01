@@ -62,7 +62,7 @@ fun SearchBar(
     var text = remember{
         mutableStateOf("")
     }
-    BasicTextField(value = , onValueChange = )
+
 }
 
 
